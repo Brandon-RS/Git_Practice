@@ -1,0 +1,11 @@
+body{
+    background: #282C34;
+    color: whitesmoke;
+    max-width: 1200px;
+    text-align: justify;
+    margin: auto;
+}
+
+h1{
+    margin-left: 60px;
+}
